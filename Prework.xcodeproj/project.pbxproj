@@ -15,6 +15,7 @@
 		7C3697E826C4EA06006C9104 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C3697E626C4EA06006C9104 /* LaunchScreen.storyboard */; };
 		7C3697F326C4EA06006C9104 /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C3697F226C4EA06006C9104 /* PreworkTests.swift */; };
 		7C3697FE26C4EA06006C9104 /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C3697FD26C4EA06006C9104 /* PreworkUITests.swift */; };
+		7C36980E26CA39F2006C9104 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C36980D26CA39F2006C9104 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		7C3697F926C4EA06006C9104 /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C3697FD26C4EA06006C9104 /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		7C3697FF26C4EA06006C9104 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7C36980D26CA39F2006C9104 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		7C3697DA26C4EA04006C9104 /* Prework */ = {
 			isa = PBXGroup;
 			children = (
+				7C36980D26CA39F2006C9104 /* SettingsViewController.swift */,
 				7C3697DB26C4EA04006C9104 /* AppDelegate.swift */,
 				7C3697DD26C4EA04006C9104 /* SceneDelegate.swift */,
 				7C3697DF26C4EA04006C9104 /* ViewController.swift */,
@@ -261,6 +264,7 @@
 				7C3697E026C4EA04006C9104 /* ViewController.swift in Sources */,
 				7C3697DC26C4EA04006C9104 /* AppDelegate.swift in Sources */,
 				7C3697DE26C4EA04006C9104 /* SceneDelegate.swift in Sources */,
+				7C36980E26CA39F2006C9104 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
